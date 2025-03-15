@@ -19,7 +19,9 @@ A modern Flappy Bird-inspired game built using JavaScript, HTML, and CSS, enhanc
 ✔ Difficulty Balancing – Gradual speed increase for better playability.
 
 📸 Screenshots
-(Add game screenshots here for better engagement!)
+![image](https://github.com/user-attachments/assets/52715cee-8cac-4e49-8a77-9e8fb6d16d9e)
+![Uploading image.png…]()
+
 
 🚀 Installation & Setup
 Clone the repository:
